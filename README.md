@@ -14,6 +14,6 @@ Michel Anthony
 
 ## Sommaire
 
-Technologie utilisée :
-<em>OpenVPN, VPS sous Debian 9<br>
+<em>Technologie utilisée :
+OpenVPN, VPS sous Debian 9<br>
 Client : Windows 10</em>
