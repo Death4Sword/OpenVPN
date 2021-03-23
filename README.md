@@ -28,3 +28,12 @@ Client : Windows 10</em>
 [Documentation Utilisateur](https://github.com/AntoineDucoudre/OpenVPN/blob/main/ClientDoc.md)<br><br>
 
 
+
+
+
+
+## Problèmes renconctrés
+
+- Les requêtes/données ne s'envoient pas alors que nous recevons bien le reste
+
+
