@@ -25,7 +25,7 @@ Client : Windows 10</em>
 [Les certificats]()<br><br>
 
 
-[Documentation Utilisateur](https://github.com/AntoineDucoudre/OpenVPN/blob/main/ClientDoc.md)<br><br>
+[Documentation Utilisateur](https://github.com/AntoineDucoudre/OpenVPN/blob/main/docs/ClientDoc.md)<br><br>
 
 
 
