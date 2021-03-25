@@ -22,7 +22,7 @@ Client : Windows 10</em>
 [Une machine utlisée pour un serveur VPN]()<br><br>
 
 
-[Les certificats]()<br><br>
+[Les certificats](https://github.com/AntoineDucoudre/OpenVPN/blob/main/certificats)<br><br>
 
 
 [Documentation Utilisateur](https://github.com/AntoineDucoudre/OpenVPN/blob/main/docs/ClientDoc.md)<br><br>
@@ -34,6 +34,6 @@ Client : Windows 10</em>
 
 ## Problèmes renconctrés
 
-- Les requêtes/données ne s'envoient pas alors que nous recevons bien le reste
+- Les requêtes/données ne s'envoient pas alors que nous recevons bien le reste (résolu)
 
 
