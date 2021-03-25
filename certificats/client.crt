@@ -1,0 +1,139 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=FR, ST=ILE DE FRANCE, L=Paris, O=Ynov, OU=example, CN=Ynov CA/name=cert/emailAddress=antoine.ducoudre@ynov.com
+        Validity
+            Not Before: Mar  8 17:17:13 2021 GMT
+            Not After : Mar  6 17:17:13 2031 GMT
+        Subject: C=FR, ST=ILE DE FRANCE, L=Paris, O=Ynov, OU=example, CN=client/name=cert/emailAddress=antoine.ducoudre@ynov.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:c7:5a:0d:2e:e1:bd:26:d6:6f:bd:3e:9a:43:33:
+                    dd:c0:be:2b:2f:34:97:85:a5:6e:a4:a9:09:cf:fa:
+                    ed:9a:97:59:73:a2:00:91:bc:d9:ea:91:1f:6e:76:
+                    2a:06:23:9e:0d:41:3c:07:df:3e:6b:a9:b7:b8:28:
+                    2d:92:8c:32:24:2a:dc:be:99:a6:42:e5:53:bf:39:
+                    fa:e6:5d:a5:d5:4a:26:7e:e2:60:1d:8f:9a:2d:1b:
+                    52:8b:45:57:f4:66:01:79:09:f0:18:b4:a1:6f:61:
+                    bc:14:2b:fc:03:d8:90:5e:08:57:81:35:c1:d1:64:
+                    60:b0:e2:1d:b2:81:cf:aa:78:01:b8:90:2c:71:36:
+                    bf:65:08:ac:d5:0d:4b:3d:f9:2f:66:3f:fe:b1:af:
+                    ef:fa:da:49:93:3d:f7:1c:fb:d1:3c:14:98:12:5e:
+                    e9:bc:c7:25:f3:0b:5f:7a:b5:90:cb:4f:4f:52:27:
+                    0f:ea:54:63:fb:a7:9e:25:71:cb:94:c6:dc:6a:11:
+                    37:00:78:a5:01:48:b9:de:38:2f:5d:6b:8e:84:e8:
+                    f5:db:18:74:f2:e1:29:06:1f:4c:53:1d:74:16:00:
+                    68:c7:18:4e:98:7e:b9:1a:07:f6:2b:6d:80:9d:c0:
+                    9e:5d:8d:98:a7:60:45:b5:b0:05:7c:01:72:72:9a:
+                    33:f4:59:40:e7:80:ca:89:ea:69:cb:8f:c3:09:8d:
+                    42:c9:57:67:a1:99:21:20:44:46:9e:4a:b5:66:f0:
+                    52:ac:64:a9:e9:99:c7:59:cd:14:7c:ac:3e:e5:dc:
+                    fd:17:e6:fd:04:e4:14:c1:07:e8:48:c7:8b:48:55:
+                    77:03:eb:64:3d:30:98:41:a6:cd:7f:d3:28:c6:27:
+                    4d:47:b3:f9:db:5a:6f:ab:4a:ef:bf:9c:27:e8:f9:
+                    4b:01:a7:93:a3:21:f7:cd:85:07:5d:e4:55:3c:77:
+                    21:ef:54:c8:fd:46:1c:3d:88:8a:02:7f:43:0f:9b:
+                    ec:6e:4b:1a:a9:b7:05:0b:c6:24:40:22:f7:99:53:
+                    cf:7d:48:2a:35:43:33:e9:36:2f:b3:0e:8a:f5:63:
+                    53:72:32:7d:d7:cd:7b:f5:7c:9f:57:4e:ba:aa:76:
+                    1a:8c:9a:93:d0:64:46:62:73:8f:80:9c:f4:13:18:
+                    7d:5f:6d:30:f3:86:bd:f6:ea:88:b6:6c:4f:dc:48:
+                    a7:b1:88:fa:99:db:9a:6f:c0:9a:a1:43:04:37:b9:
+                    84:32:83:eb:4c:1f:27:eb:4f:9c:30:f3:a3:96:35:
+                    86:9c:4c:54:47:a8:2b:ac:da:1e:4c:cf:99:63:93:
+                    f4:2a:ef:71:d6:b5:61:19:78:b3:26:90:c1:b0:c6:
+                    a8:24:8b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                AB:3A:E2:CB:5E:F1:80:D4:ED:66:B9:F5:5B:E6:08:A6:A9:17:D0:14
+            X509v3 Authority Key Identifier: 
+                keyid:50:54:C1:FE:3A:A2:AA:C1:F0:1D:CD:8B:F9:66:C0:14:DB:A7:63:68
+                DirName:/C=FR/ST=ILE DE FRANCE/L=Paris/O=Ynov/OU=example/CN=Ynov CA/name=cert/emailAddress=antoine.ducoudre@ynov.com
+                serial:CC:EE:83:16:2D:16:45:6C
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:client
+    Signature Algorithm: sha256WithRSAEncryption
+         47:cf:04:93:e3:40:5b:a8:5b:f9:6f:a1:0e:27:f7:06:06:98:
+         64:54:95:ca:5e:18:26:42:39:74:99:1b:22:37:69:ad:08:ab:
+         46:ed:d3:29:59:51:e9:97:42:ee:bd:77:5e:54:37:6f:b6:a8:
+         72:fc:46:65:4a:47:e5:72:00:15:8f:25:9a:ad:51:82:fe:8b:
+         6f:6c:cc:25:c8:c0:1b:53:b9:d0:9b:7b:a8:a7:c9:a8:f4:19:
+         f8:90:8d:26:d8:c7:f3:18:ed:b1:43:0d:f5:37:5b:eb:03:e5:
+         7e:46:6a:89:95:59:20:d3:d9:b6:ca:bd:28:e7:d1:18:3d:ae:
+         43:96:37:ef:88:27:c5:1a:37:14:36:14:46:f3:15:63:1c:b0:
+         6f:79:62:2c:28:d7:e9:c1:a7:99:1d:61:e3:e0:74:ea:3b:42:
+         30:59:44:6b:6f:1f:80:91:fe:9c:1f:c4:7f:30:4b:36:a7:c9:
+         62:68:b7:8e:90:57:4b:6b:ee:22:ad:be:28:49:b2:bb:4a:f4:
+         40:8b:74:62:c6:96:79:e2:40:a3:c4:fc:68:e9:aa:e4:f9:db:
+         6b:df:6b:16:05:5f:18:05:d9:b8:66:34:e2:b2:c3:18:f7:ff:
+         35:fa:a8:b3:e8:be:c1:6f:ad:12:9f:8f:3f:0e:31:4a:1a:72:
+         84:46:f0:a9:81:70:fc:ce:9f:f0:85:b5:69:7f:5a:43:2d:b3:
+         36:bf:68:8a:1a:61:f3:22:ec:31:b6:dc:1e:d1:c7:cd:a2:1d:
+         8e:c1:48:e0:ad:09:66:29:09:92:58:e3:f6:16:f6:f5:10:17:
+         75:34:92:26:c5:bc:f9:cf:e7:8c:88:b1:9b:9d:2d:6e:05:2f:
+         20:5f:8a:80:94:d9:69:d4:0a:b1:d8:e8:f2:f4:2b:4e:37:3e:
+         81:9a:58:48:19:e1:20:ff:ba:68:fc:53:ff:09:18:c3:6d:8d:
+         52:97:43:44:1a:ab:ed:eb:e9:bc:06:07:6c:fa:cd:14:88:f9:
+         a0:e8:dd:a1:0a:15:05:f3:b0:ca:4b:9b:0d:eb:f3:25:09:fc:
+         76:70:fe:f6:05:05:2c:15:8b:14:3c:19:59:b7:72:3c:12:4e:
+         67:3d:23:e9:c6:d5:10:e2:85:54:46:41:18:cd:d3:77:6d:36:
+         ef:30:ec:d7:9d:25:0b:d8:56:5b:33:47:ec:52:b4:ed:8c:ef:
+         99:a3:67:36:97:ae:84:84:4a:90:d9:20:1a:47:6f:43:38:25:
+         2f:44:8a:5d:20:cd:f7:ad:63:1a:b1:2c:d5:32:a7:17:dd:a4:
+         d1:31:21:da:a1:b1:42:03:37:37:45:a7:2f:d5:92:93:03:23:
+         f5:ef:39:15:a2:96:5e:dd
+-----BEGIN CERTIFICATE-----
+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
+py/VkpMDI/XvORWill7d
+-----END CERTIFICATE-----
