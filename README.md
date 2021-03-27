@@ -19,7 +19,7 @@ OpenVPN, VPS sous Debian 9<br>
 Client : Windows 10</em>
 
 
-[Une machine utlisée pour un serveur VPN]()<br><br>
+[Une machine utlisée pour un serveur VPN](https://github.com/AntoineDucoudre/OpenVPN/blob/main/docs/presentation%20vpn.pptx)<br><br>
 
 
 [Les certificats](https://github.com/AntoineDucoudre/OpenVPN/blob/main/certificats)<br><br>
