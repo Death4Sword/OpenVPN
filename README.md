@@ -32,7 +32,7 @@ Client : Windows 10</em>
 
 
 
-## Problèmes renconctrés
+## Problèmes rencontrés
 
 - Les requêtes/données ne s'envoient pas alors que nous recevons bien le reste (résolu)
 
